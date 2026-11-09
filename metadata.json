@@ -1,0 +1,6 @@
+{
+  "name": "Lumora — Waqar X AI",
+  "description": "Lumora interactive 3D character hero featuring Cadet Skyranger, head-following video scrubbing, and toggleable space helmet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
